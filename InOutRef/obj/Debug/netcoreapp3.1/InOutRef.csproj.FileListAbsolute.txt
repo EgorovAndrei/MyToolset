@@ -1,0 +1,13 @@
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\bin\Debug\netcoreapp3.1\InOutRef.exe
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\bin\Debug\netcoreapp3.1\InOutRef.deps.json
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\bin\Debug\netcoreapp3.1\InOutRef.runtimeconfig.json
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\bin\Debug\netcoreapp3.1\InOutRef.runtimeconfig.dev.json
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\bin\Debug\netcoreapp3.1\InOutRef.dll
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\bin\Debug\netcoreapp3.1\InOutRef.pdb
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\obj\Debug\netcoreapp3.1\InOutRef.csprojAssemblyReference.cache
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\obj\Debug\netcoreapp3.1\InOutRef.AssemblyInfoInputs.cache
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\obj\Debug\netcoreapp3.1\InOutRef.AssemblyInfo.cs
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\obj\Debug\netcoreapp3.1\InOutRef.csproj.CoreCompileInputs.cache
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\obj\Debug\netcoreapp3.1\InOutRef.dll
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\obj\Debug\netcoreapp3.1\InOutRef.pdb
+C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\InOutRef\obj\Debug\netcoreapp3.1\InOutRef.genruntimeconfig.cache

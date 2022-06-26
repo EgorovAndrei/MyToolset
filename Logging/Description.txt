@@ -1,0 +1,28 @@
+Пишется всё через провайдеры
+по умолчанию из 4
+Console
+Debug
+EventSource (докачивается nuget пакет, включается trace - в целом не нужно)
+EventLog: Windows only (через пуск открыть Event Viewer и там Application)
+
+конфигурируются в appsettings, там есть указание префиксов "Microsoft." определяет уровень логирования для всего, что глубже "Microsoft.xxx.xxx"
+
+для логирования в файл можно добавить расширение Microsoft.Extensions.Logging и тогда через factory.AddProvider(new FileLoggerProvider(filePath));
+задать файл куда пишутся логи
+
+например:
+var dirWithLogs = Directory.GetCurrentDirectory() + @"\Logs";
+            if (!Directory.Exists(dirWithLogs))
+            {
+                Directory.CreateDirectory(dirWithLogs);
+            }
+
+loggerFactory.AddFile(Path.Combine(dirWithLogs, "Logs" + DateTime.Now.Date.ToString("dd-MM-yyyy") + ".txt"));
+
+можно пользоваться и множеством других логгер провайдеров, например NLog
+
+еще есть W3c логгирование и HTTP логгирование
+
+
+
+            
