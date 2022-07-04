@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6ph+bPHbajPx2AuFd/gofekzvClJG05NvS7IcaOdrld5LLRAD5jMQdc1Kp6ZcjbMune+r51AmUi1x2VQBP7Rqg==",
+  "dgSpecHash": "Rjd3JvtmeYxE1oW0T9m+XoC4SbbX4oRIA9M2Ns9jH88QJxqsfZPEi0gieUNuB1ScYPKWBH/oYhjbGjs1M0Md8g==",
   "success": true,
   "projectFilePath": "B:\\Projects\\MyToolset\\MassTransit31\\MassTransit31.csproj",
   "expectedPackageFiles": [
@@ -29,11 +29,7 @@
     "C:\\Users\\Andrei\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
-    "C:\\Users\\Andrei\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
-    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

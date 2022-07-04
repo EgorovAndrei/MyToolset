@@ -1,0 +1,14 @@
+B:\Projects\MyToolset\MyGitInfo\bin\Debug\netcoreapp3.1\MyGitInfo.exe
+B:\Projects\MyToolset\MyGitInfo\bin\Debug\netcoreapp3.1\MyGitInfo.deps.json
+B:\Projects\MyToolset\MyGitInfo\bin\Debug\netcoreapp3.1\MyGitInfo.runtimeconfig.json
+B:\Projects\MyToolset\MyGitInfo\bin\Debug\netcoreapp3.1\MyGitInfo.runtimeconfig.dev.json
+B:\Projects\MyToolset\MyGitInfo\bin\Debug\netcoreapp3.1\MyGitInfo.dll
+B:\Projects\MyToolset\MyGitInfo\bin\Debug\netcoreapp3.1\MyGitInfo.pdb
+B:\Projects\MyToolset\MyGitInfo\obj\Debug\netcoreapp3.1\GitInfo.cache
+B:\Projects\MyToolset\MyGitInfo\obj\Debug\netcoreapp3.1\MyGitInfo.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\MyToolset\MyGitInfo\obj\Debug\netcoreapp3.1\MyGitInfo.AssemblyInfoInputs.cache
+B:\Projects\MyToolset\MyGitInfo\obj\Debug\netcoreapp3.1\MyGitInfo.AssemblyInfo.cs
+B:\Projects\MyToolset\MyGitInfo\obj\Debug\netcoreapp3.1\MyGitInfo.csproj.CoreCompileInputs.cache
+B:\Projects\MyToolset\MyGitInfo\obj\Debug\netcoreapp3.1\MyGitInfo.dll
+B:\Projects\MyToolset\MyGitInfo\obj\Debug\netcoreapp3.1\MyGitInfo.pdb
+B:\Projects\MyToolset\MyGitInfo\obj\Debug\netcoreapp3.1\MyGitInfo.genruntimeconfig.cache

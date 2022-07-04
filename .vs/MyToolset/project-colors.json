@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d55dc178-25c9-4a2f-b85c-cc801093c251": {
+      "ProjectGuid": "d55dc178-25c9-4a2f-b85c-cc801093c251",
+      "DisplayName": "Constructors",
+      "ColorIndex": 0
+    },
+    "0ab2faf1-7534-472f-af01-8157562a152a": {
+      "ProjectGuid": "0ab2faf1-7534-472f-af01-8157562a152a",
+      "DisplayName": "MyToolset",
+      "ColorIndex": 1
+    },
+    "4abafd81-ceda-4f41-bd2a-4b921b3390f0": {
+      "ProjectGuid": "4abafd81-ceda-4f41-bd2a-4b921b3390f0",
+      "DisplayName": "GitInfo",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

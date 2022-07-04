@@ -11,3 +11,17 @@ C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\MyToolset\obj\Debug\ne
 C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.dll
 C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.pdb
 C:\Users\Andrei_Egorov1\Desktop\GitRepositories\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.genruntimeconfig.cache
+B:\Projects\MyToolset\MyToolset\bin\Debug\netcoreapp3.1\MyToolset.exe
+B:\Projects\MyToolset\MyToolset\bin\Debug\netcoreapp3.1\MyToolset.deps.json
+B:\Projects\MyToolset\MyToolset\bin\Debug\netcoreapp3.1\MyToolset.runtimeconfig.json
+B:\Projects\MyToolset\MyToolset\bin\Debug\netcoreapp3.1\MyToolset.runtimeconfig.dev.json
+B:\Projects\MyToolset\MyToolset\bin\Debug\netcoreapp3.1\MyToolset.dll
+B:\Projects\MyToolset\MyToolset\bin\Debug\netcoreapp3.1\MyToolset.pdb
+B:\Projects\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.csproj.AssemblyReference.cache
+B:\Projects\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projects\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.AssemblyInfoInputs.cache
+B:\Projects\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.AssemblyInfo.cs
+B:\Projects\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.csproj.CoreCompileInputs.cache
+B:\Projects\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.dll
+B:\Projects\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.pdb
+B:\Projects\MyToolset\MyToolset\obj\Debug\netcoreapp3.1\MyToolset.genruntimeconfig.cache

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30320.27
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyToolset", "MyToolset\MyToolset.csproj", "{0AB2FAF1-7534-472F-AF01-8157562A152A}"
 EndProject
@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InOutRef", "InOutRef\InOutR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQ", "RabbitMQ\RabbitMQ.csproj", "{4947113D-74CA-4B2E-A645-BC8A6690D481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit31", "MassTransit31\MassTransit31.csproj", "{77376797-2031-4049-8DC7-3600F84B79BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransit31", "MassTransit31\MassTransit31.csproj", "{77376797-2031-4049-8DC7-3600F84B79BF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MassTransitRabbitMq", "MassTransitRabbitMq", "{F070E22E-AEB7-4B93-9091-EC68B6323869}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitRabbitMq", "MassTransitRabbitMq\MassTransitRabbitMq.csproj", "{0FF8866C-0AD1-4896-B27B-70316218ECE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitRabbitMq", "MassTransitRabbitMq\MassTransitRabbitMq.csproj", "{0FF8866C-0AD1-4896-B27B-70316218ECE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGitInfo", "MyGitInfo\MyGitInfo.csproj", "{CEECCBDC-94B9-4465-B38E-30595E8E1565}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{0FF8866C-0AD1-4896-B27B-70316218ECE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FF8866C-0AD1-4896-B27B-70316218ECE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FF8866C-0AD1-4896-B27B-70316218ECE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEECCBDC-94B9-4465-B38E-30595E8E1565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEECCBDC-94B9-4465-B38E-30595E8E1565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEECCBDC-94B9-4465-B38E-30595E8E1565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEECCBDC-94B9-4465-B38E-30595E8E1565}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
