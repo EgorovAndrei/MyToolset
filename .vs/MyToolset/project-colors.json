@@ -15,7 +15,42 @@
       "ProjectGuid": "4abafd81-ceda-4f41-bd2a-4b921b3390f0",
       "DisplayName": "GitInfo",
       "ColorIndex": 2
+    },
+    "27be7a7a-29d6-47e1-9fe2-359f250a3bd4": {
+      "ProjectGuid": "27be7a7a-29d6-47e1-9fe2-359f250a3bd4",
+      "DisplayName": "GitInfo",
+      "ColorIndex": 3
+    },
+    "ceeccbdc-94b9-4465-b38e-30595e8e1565": {
+      "ProjectGuid": "ceeccbdc-94b9-4465-b38e-30595e8e1565",
+      "DisplayName": "MyGitInfo",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "84e17eb4-8d8e-485f-b93a-c179090970e9": {
+      "ProjectGuid": "84e17eb4-8d8e-485f-b93a-c179090970e9",
+      "DisplayName": "InOutRef",
+      "ColorIndex": 5
+    },
+    "44841f8b-c295-4300-8531-7c64579d535d": {
+      "ProjectGuid": "44841f8b-c295-4300-8531-7c64579d535d",
+      "DisplayName": "Logging",
+      "ColorIndex": 6
+    },
+    "70b91bb7-2183-4c46-923e-37a76f4cb590": {
+      "ProjectGuid": "70b91bb7-2183-4c46-923e-37a76f4cb590",
+      "DisplayName": "EFcore",
+      "ColorIndex": 7
+    },
+    "085bb12a-cae6-4807-9ba0-8458d7d1fe51": {
+      "ProjectGuid": "085bb12a-cae6-4807-9ba0-8458d7d1fe51",
+      "DisplayName": "MyMediatR",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 9
 }
