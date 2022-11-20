@@ -20,3 +20,5 @@
 /EFcore/obj
 /Constructors/bin
 /Constructors/obj
+/AspNetCore_MediatR/bin
+/AspNetCore_MediatR/obj
