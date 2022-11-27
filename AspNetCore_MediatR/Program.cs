@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using AspNetCore_MediatR;
+using MediatR;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,9 +12,10 @@ builder.Services.AddControllers();
 //https://github.com/jbogard/MediatR/wiki
 //этой строчки достаточно для core 6,
 //в ранних версиях нужно services.AddMediatR(typeof(Startup));
-
 builder.Services.AddMediatR(Assembly.GetExecutingAssembly());
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(LoggingBehavior<,>));
 
 var app = builder.Build();
 

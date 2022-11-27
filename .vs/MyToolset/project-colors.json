@@ -50,7 +50,12 @@
       "ProjectGuid": "085bb12a-cae6-4807-9ba0-8458d7d1fe51",
       "DisplayName": "MyMediatR",
       "ColorIndex": 8
+    },
+    "1b5912c5-0c82-4aff-a016-4fd8d7d6e95a": {
+      "ProjectGuid": "1b5912c5-0c82-4aff-a016-4fd8d7d6e95a",
+      "DisplayName": "AspNetCore_MediatR",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }
