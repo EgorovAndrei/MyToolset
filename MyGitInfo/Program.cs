@@ -6,7 +6,11 @@ namespace MyGitInfo
     {
         static void Main()
         {
-            //чтобы работало для прописи в description dll нужно добавить assemblyinfo и параметр в csproj
+            //чтобы увидеть ThisAssembly.Git.Commit в гите нужно глянуть на начальные цифры в главной ветке 
+
+            //чтобы работало для прописи в description dll нужно добавить файл assemblyinfo, там заюзав эту инфу
+            //и параметр <GenerateAssemblyInfo>false</GenerateAssemblyInfo> в csproj в секцию PropertyGroup
+
             Console.WriteLine("Hello World!");
             Console.WriteLine(ThisAssembly.Git.Commit);
             Console.WriteLine(ThisAssembly.Git.BaseVersion.Major);

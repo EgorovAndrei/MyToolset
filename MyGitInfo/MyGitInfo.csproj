@@ -7,7 +7,7 @@
     <Description>123</Description>
     <Company>43231</Company>
     <Copyright>$(GitBranch)</Copyright>
-  <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
 
   <ItemGroup>
