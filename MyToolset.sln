@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyGitInfo", "MyGitInfo\MyGi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFcore", "EFcore\EFcore.csproj", "{70B91BB7-2183-4C46-923E-37A76F4CB590}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore_MediatR", "AspNetCore_MediatR\AspNetCore_MediatR.csproj", "{1B5912C5-0C82-4AFF-A016-4FD8D7D6E95A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCore_MediatR", "AspNetCore_MediatR\AspNetCore_MediatR.csproj", "{1B5912C5-0C82-4AFF-A016-4FD8D7D6E95A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyConsul", "MyConsul\MyConsul.csproj", "{3673D5A4-799D-46A9-8523-4DDB5BF3D2EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +79,10 @@ Global
 		{1B5912C5-0C82-4AFF-A016-4FD8D7D6E95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B5912C5-0C82-4AFF-A016-4FD8D7D6E95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B5912C5-0C82-4AFF-A016-4FD8D7D6E95A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3673D5A4-799D-46A9-8523-4DDB5BF3D2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3673D5A4-799D-46A9-8523-4DDB5BF3D2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3673D5A4-799D-46A9-8523-4DDB5BF3D2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3673D5A4-799D-46A9-8523-4DDB5BF3D2EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

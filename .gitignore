@@ -22,3 +22,6 @@
 /Constructors/obj
 /AspNetCore_MediatR/bin
 /AspNetCore_MediatR/obj
+/.vs
+/MyConsul/bin
+/MyConsul/obj
