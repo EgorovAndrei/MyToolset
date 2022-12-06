@@ -1,0 +1,9 @@
+
+configuration
+NLog
+debug
+autofac
+azure
+aws
+GoF
+Liskov principle
