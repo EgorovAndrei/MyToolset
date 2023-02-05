@@ -1,6 +1,6 @@
-namespace AspNetCore_MediatR
+namespace MyReflection
 {
-    public class WeatherForecast1
+    public class WeatherForecast
     {
         public DateTime Date { get; set; }
 

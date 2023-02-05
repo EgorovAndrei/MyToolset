@@ -37,6 +37,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MediatR", "MediatR", "{C0E8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logs", "Logs", "{A393D733-4D70-45B5-8147-5263CDE6ABE4}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyReflection", "MyReflection\MyReflection.csproj", "{F5AC600C-757F-4B6C-9AB7-4323FE3DD6D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3D6F8783-89A1-433A-A107-5B366C10DBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D6F8783-89A1-433A-A107-5B366C10DBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D6F8783-89A1-433A-A107-5B366C10DBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5AC600C-757F-4B6C-9AB7-4323FE3DD6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AC600C-757F-4B6C-9AB7-4323FE3DD6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AC600C-757F-4B6C-9AB7-4323FE3DD6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AC600C-757F-4B6C-9AB7-4323FE3DD6D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

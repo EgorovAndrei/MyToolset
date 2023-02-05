@@ -2,9 +2,22 @@
 {
     public class SomeHostedService : BackgroundService
     {
-        protected override Task ExecuteAsync(CancellationToken stoppingToken)
+        protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            throw new NotImplementedException();
+            while(!stoppingToken.IsCancellationRequested)
+            {
+                try
+                {
+                    //some work
+                    await Task.Delay(1000);
+                }
+                catch (OperationCanceledException)
+                {
+                    //maintain error
+                }
+
+                await Task.Delay(1000);
+            }
         }
     }
 }
